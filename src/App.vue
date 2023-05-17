@@ -1,6 +1,5 @@
 <template>
-  <div>Hello {{ value }}
-  </div>
+  <div>Redirecting to the new domain..</div>
 
 </template>
 
